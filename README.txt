@@ -1,1 +1,1 @@
-https://johanwidding.github.io/
+https://johanwidding.github.io
